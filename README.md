@@ -1,9 +1,9 @@
 ## 🛠️ Technical Stack
 
-- **Languages**: JavaScript (ES6+), TypeScript, Python, SQL
-- **Frontend**: React, Next.js, Redux, TailwindCSS, Storybook, Testing Library, Vitest, Jest
-- **Backend**: Node.js (Express), Laravel (basic experience)
-- **Infrastructure & Tools**: Git/GitHub, VS Code
+- **Languages**: JavaScript (ES6+), TypeScript, Python, SQL  
+- **Frontend**: React, Next.js, Redux, TailwindCSS, Storybook, Testing Library, Vitest, Jest  
+- **Backend**: Node.js (Express), Laravel (basic experience)  
+- **Infrastructure & Tools**: Git/GitHub, VS Code  
 
 ## 👨‍💻 Background
 
@@ -16,9 +16,9 @@
 
 ## 🎯 Current Goals
 
-1. Pass the **Applied Information Technology Engineer Examination (応用情報技術者試験)**
+1. Pass the **Applied Information Technology Engineer Examination (応用情報技術者試験)**    → Next attempt in **April 2026** (second challenge)  
 2. Continue solving problems on **AtCoder** to steadily improve my competitive programming skills 
-3. Earn the **LPIC-1 Linux Certification** 
+3.  Earn the **LPIC-1 Linux Certification** **within 2025**  
 
 <!---
 Taiyou-Yamamoto/Taiyou-Yamamoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
